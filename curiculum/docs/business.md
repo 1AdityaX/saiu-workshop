@@ -1,4 +1,4 @@
-#Businesss School
+#Business School 
 
 ## 1st year
 
