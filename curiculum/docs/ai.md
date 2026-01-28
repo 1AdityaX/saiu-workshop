@@ -18,4 +18,11 @@
 * OOPS
 * Critical thinking
 
+##### specializations offered
+* Agritech
+* Fintech
+* Healthcare in AI
+* Digital Psychology
+* Legal tech
+* Media tech
 
