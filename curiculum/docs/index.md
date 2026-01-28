@@ -4,6 +4,13 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 
 for [github](https://github.com/nammahari/saiu-workshop) 
+
+AI - [AI](ai.md)
+Arts - [Arts](arts.md)
+Data Science - [ CDS ](B.TechCDS.md)
+Business - [Business](business.md)
+Law - [Law](law.md)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
